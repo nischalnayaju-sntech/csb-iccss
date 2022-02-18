@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nischalnayaju-sntech.github.io/csb-iccss/static/css/main.abc1bd39.chunk.css",
+    "main.js": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/main.d15667ff.chunk.js",
+    "main.js.map": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/main.d15667ff.chunk.js.map",
+    "runtime-main.js": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/runtime-main.785b3174.js",
+    "runtime-main.js.map": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/runtime-main.785b3174.js.map",
+    "static/js/2.86c651d6.chunk.js": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/2.86c651d6.chunk.js",
+    "static/js/2.86c651d6.chunk.js.map": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/2.86c651d6.chunk.js.map",
+    "index.html": "https://nischalnayaju-sntech.github.io/csb-iccss/index.html",
+    "static/css/main.abc1bd39.chunk.css.map": "https://nischalnayaju-sntech.github.io/csb-iccss/static/css/main.abc1bd39.chunk.css.map",
+    "static/js/2.86c651d6.chunk.js.LICENSE.txt": "https://nischalnayaju-sntech.github.io/csb-iccss/static/js/2.86c651d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.785b3174.js",
+    "static/js/2.86c651d6.chunk.js",
+    "static/css/main.abc1bd39.chunk.css",
+    "static/js/main.d15667ff.chunk.js"
+  ]
+}
